@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.34de6062.chunk.css",
+    "main.js": "/portfolio/static/js/main.8d275d87.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8d275d87.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.e7fdb683.chunk.js": "/portfolio/static/js/2.e7fdb683.chunk.js",
+    "static/js/2.e7fdb683.chunk.js.map": "/portfolio/static/js/2.e7fdb683.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c017ef1bfd192c7b7c831aa9229049bb.js": "/portfolio/precache-manifest.c017ef1bfd192c7b7c831aa9229049bb.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/portfolio/static/css/main.34de6062.chunk.css.map",
+    "static/media/ProjectHtml.jpg": "/portfolio/static/media/ProjectHtml.02bd8151.jpg",
+    "static/media/ProjectJavaScript.jpg": "/portfolio/static/media/ProjectJavaScript.b3cc4ee6.jpg",
+    "static/media/ProjectReact.jpg": "/portfolio/static/media/ProjectReact.a911af44.jpg",
+    "static/media/aerial.jpg": "/portfolio/static/media/aerial.e7324300.jpg",
+    "static/media/bootstrap2.jpg": "/portfolio/static/media/bootstrap2.d6095a8d.jpg",
+    "static/media/css32.jpg": "/portfolio/static/media/css32.15f7470d.jpg",
+    "static/media/gimp2.jpg": "/portfolio/static/media/gimp2.7a401ff2.jpg",
+    "static/media/github2.jpg": "/portfolio/static/media/github2.0b93f04b.jpg",
+    "static/media/html52.jpg": "/portfolio/static/media/html52.029b5e50.jpg",
+    "static/media/javascript2.jpg": "/portfolio/static/media/javascript2.e4b22af8.jpg",
+    "static/media/mysql2.jpg": "/portfolio/static/media/mysql2.ca2a6d1f.jpg",
+    "static/media/react2.jpg": "/portfolio/static/media/react2.7f052b98.jpg",
+    "static/media/wordpress2.jpg": "/portfolio/static/media/wordpress2.89a28767.jpg"
+  }
+}
