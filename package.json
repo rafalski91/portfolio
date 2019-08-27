@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://rafalski91.github.io/portfolio",
   "dependencies": {
+    "eslint-utils": "^1.4.2",
     "formik": "^1.5.8",
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
